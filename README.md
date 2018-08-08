@@ -1,7 +1,7 @@
 # jsonarray
 unity c# script for json array
 
-This is a small function that user using json array.
+This is a small function that user using json array to a list in Unity.
 
 This function can let the json file, eg:
 
@@ -20,4 +20,4 @@ class Test{
     string name;
 }
 
-This is my first time to share me programme code. Please feel free to use it.
+This is my first time to share programme code. Please feel free to use it.
