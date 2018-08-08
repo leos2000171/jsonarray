@@ -4,6 +4,7 @@ using System.Text.RegularExpressions;
 using System.IO;
 using System.Linq;
 using UnityEngine;
+[System.Serializable]
 
 class JSONarray {
     static public List<T> multiJson<T>(string filenameORjsontext, bool jsontext = false){
